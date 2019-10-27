@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>932190960461-vnakl5iv2b911p2fqj9b3ng0aoh4cr0f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.932190960461-vnakl5iv2b911p2fqj9b3ng0aoh4cr0f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1MEL6fAp2PUwos2FL7bIiZ_8qUKWlrSc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932190960461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Yaksh.CalHacks</string>
+	<key>PROJECT_ID</key>
+	<string>bearcave-5c145</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bearcave-5c145.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932190960461:ios:8731f7884918b7c517d504</string>
+	<key>DATABASE_URL</key>
+	<string>https://bearcave-5c145.firebaseio.com</string>
+</dict>
+</plist>
